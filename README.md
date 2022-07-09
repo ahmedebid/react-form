@@ -2,7 +2,7 @@
 
 ## About
 
-A simple sign up for buit using React ([Create React App](https://github.com/facebook/create-react-app))
+A simple sign up form built using React ([Create React App](https://github.com/facebook/create-react-app))
 
 ## Screenshot
 
