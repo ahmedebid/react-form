@@ -6,4 +6,4 @@ A simple sign up for buit using React ([Create React App](https://github.com/fac
 
 ## Screenshot
 
-![screenshot](https://pngimg.com/image/30596)
+![screenshot](http://pngimg.com/uploads/camaro/camaro_PNG35.png)
